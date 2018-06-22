@@ -5,3 +5,6 @@
 5.git status
 6.git add + 文件名
    git add.
+   git config --global user.email ""
+   git config --global user.name ""
+7. git commit -m "xxx"
